@@ -273,6 +273,18 @@ header a:hover {
   line-height: 1.5rem;
 }
 
+#contact ul li a {
+  text-decoration: none;
+  color: rgb(24, 23, 23);
+  font-weight: bold;
+  transition: 0.5s ease;
+}
+
+#contact ul li a:hover {
+  color: rgb(239, 231, 7);
+  text-decoration: underline;
+}
+
 footer {
   text-align: center;
   background-color: rgb(24, 23, 23);
@@ -379,6 +391,7 @@ footer img {
 
   #services-img {
     display: block;
+    justify-content: center;
   }
 
   .img-of-work img {
