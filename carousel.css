@@ -52,7 +52,7 @@ html body {
 
 .navigation-manual {
   position: absolute;
-  width: 1300px;
+  width: 1350px;
   margin-top: 175px;
   display: flex;
   justify-content: center;
@@ -107,7 +107,7 @@ html body {
 .navigation-auto {
   position: absolute;
   display: flex;
-  width: 1300px;
+  width: 1350px;
   justify-content: center;
   margin-top: 600px;
 }
